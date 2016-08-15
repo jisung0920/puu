@@ -1,8 +1,37 @@
-body {margin-left: 20%; margin-top: 20%; margin-right: 20%; margin-bottom: 20%; background:  #5e945a}
+body {
+	margin-left: 20%; 
+	margin-top: 20%; 
+	margin-right: 20%; 
+	margin-bottom: 20%; 
+	background:  #5e945a
+}
 
-p {}
-a#find{color:#b9c3cd; text-decoration: none; font-size: 60%}
-a#add{color:#b9c3cd; text-decoration: none; font-size: 60%}
-div.addit{margin-left: 20%;color:#b9c3cd; font-size: 10px}
-div.loginbox{width: 400px; border-style: solid; border-color: #edf9d2; background:  #edf9d2}
-div.loginInput{margin-left: 20%}
+a#find{
+	color:#b9c3cd; 
+	text-decoration: none; 
+	font-size: 60%
+}
+a#add{
+	color:#b9c3cd; 
+	text-decoration: none; 
+	font-size: 60%
+}
+div.addit{
+	margin-left: 20%;
+	color:#b9c3cd; 
+	font-size: 10px
+}
+div.loginbox{
+	width: 400px; 
+	border-style: solid; 
+	border-color: #edf9d2; 
+	background:  #edf9d2
+}
+div.loginInput{
+	margin-left: 20%
+}
+#loginButton{
+	border: 0px;
+	background-color: #aaaaaa;
+	width: 170px;
+}
